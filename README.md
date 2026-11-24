@@ -1,2 +1,2 @@
-# TP-Aprendizado-de-M-quina-II
+# TP-Aprendizado-de-Maquina-II
 
